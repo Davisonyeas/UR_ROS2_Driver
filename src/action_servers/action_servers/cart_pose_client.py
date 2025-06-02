@@ -8,7 +8,7 @@ from rclpy.action import ActionServer, ActionClient, GoalResponse, CancelRespons
 from rclpy.action.server import ServerGoalHandle
 from rclpy.action.client import ClientGoalHandle
 
-venv_site_packages = "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_driver_d/venv/lib/python3.10/site-packages"
+venv_site_packages = "/venv/lib/python3.10/site-packages"
 sys.path.insert(0, venv_site_packages)
 
 import urx
