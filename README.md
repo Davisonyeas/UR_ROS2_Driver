@@ -32,9 +32,19 @@ colcon build --symlink-install
 
 * Enable external control on the UR teach pendant
 * Set the robot's IP
+* NOTE: Robot should be on External Control mode to use this ROS2 Driver.
 
 ### Usage
 
 #### Launching the Driver
 
-To launch the driver
+To launch the driver with a specific UR robot model:
+
+```
+source ~/ur_ros2_ws/install/setup.bash
+ros2 launch ur_ros2_driver ur_driver.launch.py robot_ip:=<robot-ip> robot_model:=<robot_model>
+```
+
+#### Controlling the Robot
+
+Send trajectory commands using ROS 2 action interfaces. You can also integrate with MoveIt 2 for motion planning.
