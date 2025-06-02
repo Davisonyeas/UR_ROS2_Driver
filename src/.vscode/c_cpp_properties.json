@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/install/dav_robot_interfaces/include/**",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_calibration/include/**",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_robot_driver/include/**",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_controllers/include/**",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_dashboard_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

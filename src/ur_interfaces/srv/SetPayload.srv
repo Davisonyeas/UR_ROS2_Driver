@@ -1,0 +1,4 @@
+# Sets the payload of the robot
+float64 payload # UR5w has a maximum payload of 5kg
+---
+bool success # Response when task is completed 

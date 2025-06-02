@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/build/actions_py",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/install/dav_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_ws_d/build/msg_publishers",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_ws_d/install/msg_publishers/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/tut_ros2_ws/install/math_pkg/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ros2_ws/build/dav_robot_controller",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ros2_ws/install/dav_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/build/actions_py",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/action1_ws/install/dav_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_humble_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_ws_d/build/msg_publishers",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ur_ros2_ws_d/install/msg_publishers/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/tut_ros2_ws/install/math_pkg/lib/python3.10/site-packages",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ros2_ws/build/dav_robot_controller",
+        "/home/davis/Documents/PhD_CS_Davis_UI/Optimize/ROS2/ros2_ws/install/dav_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
